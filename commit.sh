@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# git push imperfectioin.ru repo to github
+# git push peps37.ktk.ru repo to github
 
 dated=`date +%Y-%m-%d-%H%M%S`
 
